@@ -1,0 +1,9 @@
+<devices>
+    <device
+        manufacture="net.yap_yap_dog"
+        name="mock"
+        product="mock">
+        <input-port name="input" />
+        <output-port name="output" />
+    </device>
+</devices>
